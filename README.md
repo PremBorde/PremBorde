@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on<br>Full-stack web applications using React, JavaScript, FastAPI/Node.js, and building AI-powered features like document intelligence and recommendation systems.<br><br>👯 I’m looking to collaborate on<br>Full-stack projects, startup products, Web3-related applications, and hackathon-level real-world problem solving.<br><br>🤝 I’m looking for help with<br>Scalable backend architecture, production deployment, and improving performance in full-stack systems.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, backend optimization, system design basics, and exploring Web3 concepts alongside AI/ML.<br><br>💬 Ask me about<br>React, JavaScript, REST APIs, FastAPI/Node.js, backend logic, AI integrations, and building projects end-to-end.<br><br>⚡ Fun fact<br>I prefer building real products over tutorials—and I’m comfortable debugging broken systems until they work.
 
 
