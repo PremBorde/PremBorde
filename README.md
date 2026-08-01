@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>Computer Science Student • Full Stack Developer • AI-Powered Builder</samp><br>
-  <samp>Building modern web applications and exploring intelligent systems.</samp>
+  <samp>Building modern web applications and exploring intelligent systems </samp>
 </p>
 
 ---
