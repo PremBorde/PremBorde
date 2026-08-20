@@ -9,7 +9,7 @@
 ### 🧠 About Me
 
 * 💻 Building full-stack applications using **React**, **Node.js**, **FastAPI**, and **MongoDB**.
-* 🤖 Passionate about **AI-powered development**, **Prompt Engineering**, and intelligent automation.
+* 🤖 Passionate about **AI-powered development**, **Prompt Engineering**, and intelligent automations.
 * ⚡ Leveraging modern AI tools to accelerate development, prototyping, and problem-solving.
 * 🚀 Interested in Full Stack Development, Cloud Computing, and scalable software systems.
 * 🌱 Currently learning **Spring Boot**, **System Design**, and advanced backend development.
