@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <b>Prem Borde</b></h1>
 
 <p align="center">
-  <samp>Computer Science Student • Full Stack Developer • AI-Powered Builder</samp><br>
+  <samp>Computer Engineering Student • Full Stack Developer • AI-Powered Builder</samp><br>
   <samp>Building modern web applications and exploring intelligent systems </samp>
 </p>
 
